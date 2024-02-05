@@ -12,7 +12,7 @@ Ensure you have Python installed on your system. This code is compatible with:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/typing-test.git
+    git clone https://github.com/AnubhavShekhar/Typing-Test.git
     ```
 
 2. Navigate to the project directory:
